@@ -7,11 +7,11 @@
 ## Bio
 
 
-Chamo-me Jean Carlo Nascimento, mais conhecido como Suissa, e desde pequeno tive contato com computador e Internet, algo que hoje faz parte de mim mas não apenas como um programador, mas também como professor.
+Chamo-me Jean Carlo Nascimento, mais conhecido como Suissa, e desde pequeno tive contato com computador e Internet, algo que hoje faz parte de mim, não apenas como um programador mas também como professor.
 
-Atualmente estou com 32 anos e "brinco" na Internet desde os 14 e como professional desde os 20. Por sorte minha sempre trabalhei com Web, pois ela me fascina como podemos integrar pessoas e conhecimentos distintos. Tenho plena certeza que ela será uma ferramenta primordial para a evolução da sociedade.
+Atualmente estou com 32 anos e "brinco" na Internet desde os 14 e como profissional desde os 20. Por sorte minha sempre trabalhei com Web, pois eu me fascino com o poder que ela tem de integrar pessoas e conhecimentos distintos. Tenho plena certeza que ela será uma ferramenta primordial para a evolução da sociedade.
 
-Para fomentar a evolução pessoal e profissional das pessoas mais carentes criei uma escola virtual onde os cursos são gratuitos, para que possamos incluir cada vez mais as pessoas nesse mundo digital que futuramente engolirá os não aptos.
+Para fomentar a evolução pessoal e profissional das pessoas mais carentes criei uma escola virtual, a [Webschool](http://webschool.io/), onde todos os cursos são gratuitos, para que possamos incluir cada vez mais as pessoas nesse mundo digital que futuramente segrerará os não aptos.
 
 ## Educação
 
