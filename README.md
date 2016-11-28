@@ -1,8 +1,8 @@
 # About me
 
-- nick: Suissa
-- nome: Jean Carlo Nascimento
-- data de nascimento: 20/11/1984
+- **apelido**: Suissa
+- **nome**: Jean Carlo Nascimento
+- **nascimento**: 20/11/1984
 
 ## Bio
 
