@@ -24,3 +24,11 @@ Iniciei uma pós-grduação em Desenvolvimento Web, porém tive que largá-la pa
 Comecei a programar profissionalmente com 20 anos em Ponta Grossa-PR, algum tempo depois fui morar em Itararé-SP e por sorte me chamaram para dar aula na faculdade
 
 ## Palestras
+
+Comecei a palestrar como programador em meados de 2012, sempre foquei em Frontend, JavaScript e NoSQL. Já tentei manter um repositório atualizado com todas palestras que dei, mas demanda muito trabalho, em vez disso melhor listar alguns temas mais atuais que palestrei:
+
+- JavaScript Funcional
+- Frontend-driven Development
+- Atomic Design - Frontend
+- Atomic Design - Node.js (arquitetura criada por mim)
+- Persistência Poliglota - NoSQL
