@@ -21,7 +21,7 @@ Iniciei uma pós-grduação em Desenvolvimento Web, porém tive que largá-la pa
 
 ## Carreira
 
-Comecei a programar profissionalmente com 20 anos em Ponta Grossa-PR, algum tempo depois fui morar em Itararé-SP e por sorte me chamaram para dar aula na faculdade
+Comecei a programar profissionalmente com 20 anos em Ponta Grossa-PR, algum tempo depois fui morar em Itararé-SP e por sorte me chamaram para dar aula na faculdade de lá, FAFIT, dei aula por um ano e depois tive que parar pois me mudei para São Paulo para trabalhar como programador PHP sênior em uma empresa de pesquisas médicas.
 
 ## Palestras
 
@@ -29,6 +29,6 @@ Comecei a palestrar como programador em meados de 2012, sempre foquei em Fronten
 
 - JavaScript Funcional
 - Frontend-driven Development
-- Atomic Design - Frontend
+- Atomic Design Behavior - Frontend
 - Atomic Design - Node.js (arquitetura criada por mim)
 - Persistência Poliglota - NoSQL
