@@ -29,7 +29,7 @@ Criei alguns eventos de programação como: FrontinSampa, Sampa.js e JS4Girls.
 
 ## Palestras
 
-Comecei a palestrar como programador em meados de 2012, sempre foquei em Frontend, JavaScript e NoSQL. Já tentei manter um repositório atualizado com todas palestras que dei, mas demanda muito trabalho, em vez disso melhor listar alguns temas mais atuais que palestrei:
+Comecei a palestrar como programador em meados de 2012, foquei em Frontend, JavaScript e NoSQL. Já tentei manter um repositório atualizado com todas palestras que dei, mas demanda muito trabalho, em vez disso melhor listar alguns temas mais atuais que palestrei:
 
 - JavaScript Funcional
 - Frontend-driven Development
