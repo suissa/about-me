@@ -23,6 +23,10 @@ Iniciei uma pós-grduação em Desenvolvimento Web, porém tive que largá-la pa
 
 Comecei a programar profissionalmente com 20 anos em Ponta Grossa-PR, algum tempo depois fui morar em Itararé-SP e por sorte me chamaram para dar aula na faculdade de lá, FAFIT, dei aula por um ano e depois tive que parar pois me mudei para São Paulo para trabalhar como programador PHP sênior em uma empresa de pesquisas médicas.
 
+Criei o primeiro curso FullStack de JavaScript do Brasil, o [Be MEAN](https://github.com/Webschool-io/be-mean/), em 2012/2013. Até hoje ainda é bem atual e foi o único no Brasil que fechou a meta do seu *crowdfunding*, não apenas fechou como dobrou a meta, isso foi ano passado, por isso hoje ele é *FREE* para todos.
+
+Criei alguns eventos de programação como: FrontinSampa, Sampa.js e JS4Girls.
+
 ## Palestras
 
 Comecei a palestrar como programador em meados de 2012, sempre foquei em Frontend, JavaScript e NoSQL. Já tentei manter um repositório atualizado com todas palestras que dei, mas demanda muito trabalho, em vez disso melhor listar alguns temas mais atuais que palestrei:
